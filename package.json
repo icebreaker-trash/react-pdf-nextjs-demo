@@ -1,0 +1,22 @@
+{
+  "name": "react-pdf-next-js",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-pdf": "^6.0.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
